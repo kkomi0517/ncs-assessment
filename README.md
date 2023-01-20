@@ -1,1 +1,1 @@
-# Gitgub 협업 관리
+# Github 협업 관리
